@@ -4,7 +4,11 @@
 [![npm version](https://img.shields.io/npm/v/django-react-bridge.svg)](https://www.npmjs.com/package/django-react-bridge)  
 [![License: MIT](https://img.shields.io/npm/l/django-react-bridge.svg)](LICENSE)
 
-> The `django-react-bridge` npm package is a lightweight and flexible API client designed to streamline communication between a React frontend and a Django backend. It simplifies HTTP requests, manages JWT-based authentication, and includes features like caching and automatic retries, making it an ideal tool for integrating React applications with Django RESTful APIs. 
+[Link to NPM-Package](https://www.npmjs.com/package/django-react-bridge?activeTab=readme)
+
+> The `django-react-bridge` npm package is a lightweight and flexible API client designed to streamline communication between a React frontend and a Django backend. It simplifies HTTP requests, manages JWT-based authentication, and includes features like caching and automatic retries, making it an ideal tool for integrating React applications with Django RESTful APIs.
+
+
 
 ## Table of Contents
 
